@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Driver : MonoBehaviour
 {
-    public float SteerSpeed = 250f, MoveSpeed = 20f, SlowSpeed = 15f, BoostSpeed = 30f;
+    public float SteerSpeed = 250f, MoveSpeed = 20f, SlowSpeed = 5f, BoostSpeed = 30f;
 
     private void Update()
     {
@@ -25,6 +25,19 @@ public class Driver : MonoBehaviour
         if (other.tag == "Boost")
         {
             MoveSpeed = BoostSpeed;
+        }
+
+        if (other.tag == "Mud")
+        {
+            MoveSpeed = SlowSpeed;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.tag == "Boost")
+        {
+            BoostSpeed = MoveSpeed;
         }
     }
 }
