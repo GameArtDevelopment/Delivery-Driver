@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Driver : MonoBehaviour
 {
-    public float SteerSpeed = 100f, MoveSpeed = 20f, SlowSpeed = 15f, BoostSpeed = 30f;
+    public float SteerSpeed = 250f, MoveSpeed = 20f, SlowSpeed = 15f, BoostSpeed = 30f;
 
     private void Update()
     {
