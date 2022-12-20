@@ -1,0 +1,44 @@
+--------------------------------------
+Handheld Character Asset Pack Overview
+--------------------------------------
+The image titled Handheld Character Complete Numbered will show each 
+character sprite given a number. That number will correlate each of the 
+numbered folders. This way, you can easily find which character you 
+want to pull up.
+
+Each Handheld Character folder holds animations as individual 
+sprites (each within their own folder and numbered in order of frame) 
+and an overall sprite sheet. Some sprites did not make the official release,
+but the numbering reflects the proper sprites. Below are instructions for 
+interpretingthe sprite sheet (by rows).
+
+Sprite sheets are organized in the following order from Top to Bottom:
+
+Row 1 - Idle facing south (down)
+Row 2 - Idle facing north (up)
+Row 3 - idle facing east (right)
+Row 4 - Idle facing west (left)
+Row 5 - Walking south (down)
+Row 6 - Walking north (up)
+Row 7 - Walking east (right)
+Row 8 - Walking west (left)
+
+Sprites are constrained to fit within 16x16
+
+Sprites go well with 8x8 tilesets
+
+Credit is not necessary, but if you create something using this tileset I'd 
+love to see your work (you can comment with a link to your projects, images, etc.).
+
+CONTACT: Follow and reach out to me on Twitter, Instagram, TikTok, Ko-fi, 
+Snapchat, Facebook, and Twitch @danvelasquezart
+
+SUPPORT: Support me in creating new assets via my Ko-fi! While you can pledge 
+a monthly membership, you could give me a one-time (or multiple times) tip! 
+Visit me at https://ko-fi.com/danvelasquezart
+
+LICENSE: This asset pack can be used in free and commercial projects. 
+You can modify the assets as you need (CHECK OUT THE SCREENSHOT FOR IDEAS 
+ON NEW ANIMATIONS). Credit is not necessary, but always appreciated. 
+You may not repackage, redistribute or resell the assets, no matter how much 
+they are modified - this includes as NFT's

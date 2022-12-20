@@ -1,0 +1,40 @@
+--------------------------------------
+Short N Stubby Character Base Overview
+--------------------------------------
+This pack will receive updates (addition or updated sprites/animations)
+
+Sprites created with 16x16 tilesets in mind.
+
+Folders contain:
+- Individual PNG files for hands, effects, and test weapons as separate files to layer on your sprite/spawn
+in game
+- Sprite sheets (white & 20 skin tones)
+- GIFs of animations as they are envisioned/recommended (of course, use however you want)
+
+Use the provided Skin Tones chart to sort through folders. Each skin tone is assigned
+a number that corresponds with a matching folder for in the Animations folder and the
+Hands Separate folder.
+
+This pack goes well with many of my other packs, so please check out the shop for 
+additional things like weapons, outfits, items, etc.
+
+Credit is not necessary, but if you create something using this sprite pack I'd 
+love to see your work (you can comment with a link to your projects, images, etc.).
+
+Should you choose to create 3rd party assets, you must contact me prior to selling. I would
+love to see people make things for this character (outfits, hair, armor, etc.) and get
+compensated for it. So reach out if you are interested in making 3rd party packs. Full rules
+on this are on the store page.
+
+CONTACT: Follow and reach out to me on Twitter, Instagram, TikTok, Ko-fi, 
+Snapchat, Facebook, and Twitch @danvelasquezart
+
+SUPPORT: Support me in creating new assets via my Ko-fi! While you can pledge 
+a monthly membership, you could give me a one-time (or multiple times) tip! 
+Visit me at https://ko-fi.com/danvelasquezart
+
+LICENSE: This asset pack can be used in free and commercial projects. 
+You can modify the assets as you need (CHECK OUT THE SCREENSHOT FOR IDEAS 
+ON NEW ANIMATIONS). Credit is not necessary, but always appreciated. 
+You may not repackage, redistribute or resell the assets, no matter how much 
+they are modified - this includes as NFT's
